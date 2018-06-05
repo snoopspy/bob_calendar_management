@@ -24,6 +24,7 @@ BoB 7기 구글 캘린터 관리 수칙
 * B. Make changes to events
 ```
 A 그룹에 속한 멘토들의 판단하에 나머지 멘토들에 대해 B 권한을 부여한다.
+상황에 따라 한 명의 멘토에게 여러 트랙 중복 권한 부여 가능(A, B 동일).
 ```
 
 * C. Sll all event details
