@@ -28,8 +28,8 @@ A 그룹에 속한 멘토들의 판단하에 나머지 멘토들에 대해 B 권
 
 * C. Sll all event details
 ```
-bobmentor16@gmail.com
-bobstudent16@gmail.com
+bobmentor17@gmail.com
+bobstudent17@gmail.com
 신규멘토(신규 멘토의 강의 스케쥴은 A/B 그룹에 속해 있는 자에 한해 관리한다)
 ```
 
